@@ -1,0 +1,7 @@
+Origin: MamoLinux
+Label: MamoLinux
+Codename: jammy
+Architecture: amd64
+Components: main
+Description: Contains all 64-bit(amd64) binary packages for MamoLinux.
+SignWith: 285EEFC47549D50E

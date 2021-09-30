@@ -1,0 +1,214 @@
+Format: 3.0 (native)
+Package: battery-monitor
+Binary: battery-monitor
+Architecture: all
+Version: 1.0.2
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+Package-List:
+ battery-monitor deb admin optional arch=all
+Directory: pool/main/b
+Checksums-Sha1:
+ a0f0828280c8b25163e7309e5fb93a26f78f2bd9 1442 battery-monitor_1.0.2.dsc
+ dbf4edf6a5b88620c3e74000dcba3d7705347299 36812 battery-monitor_1.0.2.tar.xz
+Checksums-Sha256:
+ 42fdf580552e1f2fa42a1c33b7932050a068d5443dab29dee6349de510cb6b98 1442 battery-monitor_1.0.2.dsc
+ 28d323739a035450559e3427a55e38b16584a0f02f8e51b9b6413a1ff452487c 36812 battery-monitor_1.0.2.tar.xz
+Files:
+ 04589c992be16ffb67f39aea61bc53c6 1442 battery-monitor_1.0.2.dsc
+ 48e4161eff796bed63b9cb15ee517da6 36812 battery-monitor_1.0.2.tar.xz
+
+Format: 3.0 (native)
+Package: leaptime-manager
+Binary: leaptime-manager
+Architecture: all
+Version: 1.0.0
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+Package-List:
+ leaptime-manager deb admin optional arch=all
+Directory: pool/main/l
+Checksums-Sha1:
+ 73ce0342176aef07516ca13624985d915cbfb485 1448 leaptime-manager_1.0.0.dsc
+ ebe6aae1109581a1636f6cf7b1d9f532f63c00a6 23796 leaptime-manager_1.0.0.tar.xz
+Checksums-Sha256:
+ d2c9edb66848f6a1edeea719e60157a45e49919c084aa5491597782338d94920 1448 leaptime-manager_1.0.0.dsc
+ 8ae3849ff594c038998e2308a1493bd0b78ac95f4fc9c7ee7074d4da5a5e9edd 23796 leaptime-manager_1.0.0.tar.xz
+Files:
+ 771c020a598fef7dbea3964d31c54d30 1448 leaptime-manager_1.0.0.dsc
+ a2237da1250608818f26c21d98e3c1c9 23796 leaptime-manager_1.0.0.tar.xz
+
+Format: 3.0 (native)
+Package: mamolinux-cursors
+Binary: mamolinux-cursors
+Architecture: all
+Version: 1.1.1
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Homepage: https://github.com/hsbasu/freedomos-cursors
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 12), bc, inkscape, gtk2-engines-pixbuf, gtk2-engines-murrine, gnome-themes-standard
+Package-List:
+ mamolinux-cursors deb gnome optional arch=all
+Directory: pool/main/m
+Checksums-Sha1:
+ 3842108a6ad2383339df911928f71dc7dfd21bc2 1592 mamolinux-cursors_1.1.1.dsc
+ 22e837ef69ba4b297d0efe6a4eab5802ca62efe9 759084 mamolinux-cursors_1.1.1.tar.xz
+Checksums-Sha256:
+ d939ba74f54aa8cf27359d502af03d28bc48f7a7ae0b7b6cd8f0a09dc2c9aa6f 1592 mamolinux-cursors_1.1.1.dsc
+ b21511303a62c9fac6d53c75997a35107fadd48c3578b37ef03a843f9ecb2488 759084 mamolinux-cursors_1.1.1.tar.xz
+Files:
+ 247ab3fffc8d2d937f707541223add7e 1592 mamolinux-cursors_1.1.1.dsc
+ 1ad9d91b0d50a79d1fbbbea63b513e3e 759084 mamolinux-cursors_1.1.1.tar.xz
+
+Format: 3.0 (native)
+Package: mamolinux-settings
+Binary: mamolinux-settings
+Architecture: all
+Version: 1.0.1
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 10)
+Package-List:
+ mamolinux-settings deb admin optional arch=all
+Directory: pool/main/m
+Checksums-Sha1:
+ c03412137dc31e46ff85b70dd5dbd5619505813c 1461 mamolinux-settings_1.0.1.dsc
+ 454273157bc635303a4535551b118cddac9df226 17956 mamolinux-settings_1.0.1.tar.xz
+Checksums-Sha256:
+ 1a2e31031e0be5211775f30fe7f67fc35d350cf766d980e6cc51151e3ec3a9cd 1461 mamolinux-settings_1.0.1.dsc
+ cc643da5528d6a4e626cfbcdfa3fd56b71b562b49fb76fd9694d60e82a7d4661 17956 mamolinux-settings_1.0.1.tar.xz
+Files:
+ c2f295dd9f84849fc339520115ed931a 1461 mamolinux-settings_1.0.1.dsc
+ 33df5036f0fe365305782df0a4c1dfa8 17956 mamolinux-settings_1.0.1.tar.xz
+
+Format: 3.0 (native)
+Package: mamolinux-themes
+Binary: mamolinux-themes
+Architecture: all
+Version: 1.9.3mamolinux1
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Homepage: https://github.com/hsbasu/mamolinux-themes
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 10), sassc
+Package-List:
+ mamolinux-themes deb gnome optional arch=all
+Directory: pool/main/m
+Checksums-Sha1:
+ 501c8c7d9f63c8d3c101adca0f4d4b8e09bb9003 1555 mamolinux-themes_1.9.3mamolinux1.dsc
+ 6ddd20d7e2bfcb03c3023134c060902806485023 1046788 mamolinux-themes_1.9.3mamolinux1.tar.xz
+Checksums-Sha256:
+ 3da99c323c8f29793a91262ca025f022703951c644ffbfa954a31e6fb6968c8f 1555 mamolinux-themes_1.9.3mamolinux1.dsc
+ ec247f41d650b51900e9d52d50f0c0fd314322be9ec5d8a46cd7cac97375661e 1046788 mamolinux-themes_1.9.3mamolinux1.tar.xz
+Files:
+ f21a4ebba06b15c8f91b0324a2aa97c9 1555 mamolinux-themes_1.9.3mamolinux1.dsc
+ 7a0473d35d4c9195deb625159ea47773 1046788 mamolinux-themes_1.9.3mamolinux1.tar.xz
+
+Format: 3.0 (native)
+Package: mamolinux-themes
+Binary: mamolinux-themes
+Architecture: all
+Version: 1.9.5mamolinux1
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Homepage: https://github.com/hsbasu/mamolinux-themes
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 10), sassc
+Package-List:
+ mamolinux-themes deb gnome optional arch=all
+Directory: pool/main/m
+Checksums-Sha1:
+ 61245c9697f215e2d80c80ac9512e7eb753e9028 1555 mamolinux-themes_1.9.5mamolinux1.dsc
+ 02caafe7ae4db26dabbc90eeb5398510ca8e824d 1218928 mamolinux-themes_1.9.5mamolinux1.tar.xz
+Checksums-Sha256:
+ 1d448dfe1b08bd15b4da70fc6b5393a59e2c25989553ed4b3081c850b9bce205 1555 mamolinux-themes_1.9.5mamolinux1.dsc
+ d4a25e09c4e306624c4d0968d95ff5c16479e33f99cbaf7fa9c8bd62e930953e 1218928 mamolinux-themes_1.9.5mamolinux1.tar.xz
+Files:
+ 0f6c58d684a5f2433629a5154bc559e4 1555 mamolinux-themes_1.9.5mamolinux1.dsc
+ c837ba725de05371a993155ee524f61b 1218928 mamolinux-themes_1.9.5mamolinux1.tar.xz
+
+Format: 3.0 (native)
+Package: mamolinux-wallpapers
+Binary: mamolinux-wallpapers
+Architecture: all
+Version: 20.04.0
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Homepage: https://github.com/hsbasu/mamolinux-wallpapers
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 10)
+Package-List:
+ mamolinux-wallpapers deb gnome extra arch=all
+Directory: pool/main/m
+Checksums-Sha1:
+ 5ae7e0946e251d56f94c882ffdde50c8c619c131 1544 mamolinux-wallpapers_20.04.0.dsc
+ 499709f33a680be9c73016b472a35b3c85e6f791 25700068 mamolinux-wallpapers_20.04.0.tar.xz
+Checksums-Sha256:
+ 65139b992fba2642fc5cdb9dde062ab25a5813686e0ef6db3761eae3b36f4678 1544 mamolinux-wallpapers_20.04.0.dsc
+ cc04b2aaf7ac82b027696e9c86b562a4ccc1175c9e66a62fc1e5be8b5fb3e8a9 25700068 mamolinux-wallpapers_20.04.0.tar.xz
+Files:
+ 6101b99e5687597a8c90c6e6f3dd6a13 1544 mamolinux-wallpapers_20.04.0.dsc
+ 38c3689f9d5fade4f7ca8ea9e0407ae3 25700068 mamolinux-wallpapers_20.04.0.tar.xz
+
+Format: 3.0 (native)
+Package: simple-pwgen
+Binary: simple-pwgen
+Architecture: all
+Version: 1.0.5-0patch1
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+Package-List:
+ simple-pwgen deb admin optional arch=all
+Directory: pool/main/s
+Checksums-Sha1:
+ cd999954f3f85e8f947530de275a760ccf99d457 1459 simple-pwgen_1.0.5-0patch1.dsc
+ d0a49c86ccbe3081a952a2b8981ec043288636bb 525464 simple-pwgen_1.0.5-0patch1.tar.xz
+Checksums-Sha256:
+ e3697c10a9ace80883e3c61dc7dd8ea8f769fe6a6ec756a71f037f340136598a 1459 simple-pwgen_1.0.5-0patch1.dsc
+ 4f416e48e06430311fef3e2621e51c86389480bc59882ca6a5cbf62881f7830b 525464 simple-pwgen_1.0.5-0patch1.tar.xz
+Files:
+ f6ed8531574a12c6e2b2a416ee8d5cde 1459 simple-pwgen_1.0.5-0patch1.dsc
+ 82a1c4e1c40c439bcfa42402dfe675e8 525464 simple-pwgen_1.0.5-0patch1.tar.xz
+
+Format: 3.0 (native)
+Package: theme-manager
+Binary: theme-manager
+Architecture: all
+Version: 1.0.2
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 10)
+Package-List:
+ theme-manager deb admin optional arch=all
+Directory: pool/main/t
+Checksums-Sha1:
+ 077df7489dc0c7e9dc2827fd3aaf58d006d79777 1431 theme-manager_1.0.2.dsc
+ ed2214dfe8e4baf3be3309ac2c6076acb6d39b63 23456 theme-manager_1.0.2.tar.xz
+Checksums-Sha256:
+ 808643ae9231a9ca9fb1198db4edb52b0590213dc65caa277d39e10f51329abb 1431 theme-manager_1.0.2.dsc
+ ffea2946d39f1c35bd18e998ea2707322f9d8198558243267922db521d0b7b88 23456 theme-manager_1.0.2.tar.xz
+Files:
+ a1e7646a251b9f38ae402126981986ba 1431 theme-manager_1.0.2.dsc
+ 1f89f8272e6788d6c6c7691ad7a1e888 23456 theme-manager_1.0.2.tar.xz
+
+Format: 3.0 (native)
+Package: webapp-manager
+Binary: webapp-manager
+Architecture: all
+Version: 1.1.7
+Maintainer: Linux Mint <root@linuxmint.com>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+Package-List:
+ webapp-manager deb admin optional arch=all
+Directory: pool/main/w
+Checksums-Sha1:
+ 4ded37b0f12d57d3d5797b18d826e2e9d4dd4709 1427 webapp-manager_1.1.7.dsc
+ b362afefadc9dd0cfa5c1e472122f5a8525b3693 68440 webapp-manager_1.1.7.tar.xz
+Checksums-Sha256:
+ 956d84b5bb18084257f05f3dd97401307ee340df0ba3e40ae3206a6b5a6d3db6 1427 webapp-manager_1.1.7.dsc
+ 10e4deac376351b4d72f1f840e51aca03128c516635e01f6752a59c415c4682d 68440 webapp-manager_1.1.7.tar.xz
+Files:
+ ee4e245e6c09bd4aeb2b800bc1aa018a 1427 webapp-manager_1.1.7.dsc
+ d3db7eae1fba73c774f852eac6e5bfef 68440 webapp-manager_1.1.7.tar.xz
+

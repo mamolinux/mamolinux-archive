@@ -1,0 +1,12 @@
+#package priority section [maintainerinfo]
+battery-monitor	optional	admin	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+leaptime-manager	optional	admin	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+mamolinux-cursors	optional	gnome	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+mamolinux-settings	optional	admin	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+mamolinux-themes	optional	gnome	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+mamolinux-wallpapers	extra	gnome	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+mint-themes	optional	gnome	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+pinguybuilder	optional	utils	pinguy <antoni.norman@gmail.com>
+simple-pwgen	optional	admin	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+theme-manager	optional	admin	Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+webapp-manager	optional	admin	Linux Mint <root@linuxmint.com>

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 21 Sep 2021 19:57:26 +0530
+Source: webapp-manager
+Binary: webapp-manager
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.1.5freedom1
+Distribution: focal
+Urgency: medium
+Maintainer: Linux Mint <root@linuxmint.com>
+Changed-By: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Description:
+ webapp-manager - Web Application Manager
+Changes:
+ webapp-manager (1.1.5freedom1) focal; urgency=medium
+ .
+   [ Himadri Sekhar Basu ]
+   * Add confirm dialogue before webapp removal
+   * Show the base browser of webapp in web-apps list
+   * Fix for epiphany; fixes #104
+Checksums-Sha1:
+ a46add94f817c62a51284475a9a746fb30f57e02 59000 webapp-manager_1.1.5freedom1_all.deb
+ 40acc741cb2de853b894274cf6b0b1b34ff4faa2 7513 webapp-manager_1.1.5freedom1_amd64.buildinfo
+Checksums-Sha256:
+ 4a60a52f0249c7d40cfb1a38b7fff179dfce6d0dbf5026c2d37088dca8f25655 59000 webapp-manager_1.1.5freedom1_all.deb
+ ed513cd8eaf67d2b4874172171d74c46fab93313928a2a925a8ca2c62ccf73cf 7513 webapp-manager_1.1.5freedom1_amd64.buildinfo
+Files:
+ 734d0f75725865b9e58e4e01b5255586 59000 admin optional webapp-manager_1.1.5freedom1_all.deb
+ 597307828381a73d98f02c60bb0aeaf4 7513 admin optional webapp-manager_1.1.5freedom1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEnCNYUOnB3ROF8KEHyqPhi8Ry7UgFAmFVJuwACgkQyqPhi8Ry
+7UgZ0Qv9HDzxGlKMN6b8OST5q7/9n7FLiipGPiAXW3AOO1RzTy22AeS7h0fIlE8u
+sLU1dOSDReTCpuwgHwhRCl97G1XXXy+4Ttg2kohGZskBxKV9ule6vNw48qRzgiec
+WBq7mUikjlsaAlBjpa1yKBdc1UsF/u70EfOw9E/iunJPrfsk/0uUGRRAKH6jajav
+Cy43COrZN619NdWdDyNoAE3czjhpA/c9KW6ify90gzvDSeOqaXZCjzXTOsY14hWl
+5dhqq++/2cZResf6rrygHLFNIR/teQU2KHeEqMPvKAlERJw3mgBfD+V7DAPi4pRi
+tH0gwYKDvgwsgADDvdGjqhcDoZ4IBsDQVBVc/8vYDDm0qvj5ifXIV0BcyOyIH18A
+/tdDgAdCCVr0LCQOPrkedLezcfvaiihh850nbggr/C33Af7aqKHX2Eag66Jf2EGz
+NHNZbAYyKb2h/k1Hx4QTAH6Fih9WLDWOjdzkUOOmgoExIy4w2Q+Yc5kif745dYco
+2xby61ap
+=KPjJ
+-----END PGP SIGNATURE-----

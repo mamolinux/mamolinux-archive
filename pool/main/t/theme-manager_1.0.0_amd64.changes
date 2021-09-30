@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 19 May 2021 16:59:11 +0530
+Source: theme-manager
+Binary: theme-manager
+Architecture: all
+Version: 1.0.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Changed-By: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Description:
+ theme-manager - Theme Manager
+Changes:
+ theme-manager (1.0.0) unstable; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1:
+ 00a537a085379e65a0d87b7410a12db984696b03 13444 theme-manager_1.0.0_all.deb
+ 517da1163cb0c02fc64c1d89d9d904ecd5d10339 6404 theme-manager_1.0.0_amd64.buildinfo
+Checksums-Sha256:
+ c71abe3cc80f8927d401137b31d424c40114df55a081ada203aa7a783e9969ff 13444 theme-manager_1.0.0_all.deb
+ 1c2dc22d4949fe5c3be24405f5862527b8d326cd8da8fe4a6efd78d49c045745 6404 theme-manager_1.0.0_amd64.buildinfo
+Files:
+ cf2dd6dffc63e697c366ddf9b5c44de4 13444 admin optional theme-manager_1.0.0_all.deb
+ 6fd39417a3f78ae8f9461f799f1ac6c3 6404 admin optional theme-manager_1.0.0_amd64.buildinfo

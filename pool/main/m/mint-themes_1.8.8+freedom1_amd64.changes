@@ -1,0 +1,67 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 04 Sep 2021 00:28:40 +0530
+Source: mint-themes
+Binary: mint-themes
+Architecture: all
+Version: 1.8.8+freedom1
+Distribution: uma
+Urgency: medium
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Changed-By: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Description:
+ mint-themes - Mint themes
+Changes:
+ mint-themes (1.8.8+freedom1) uma; urgency=medium
+ .
+   [ Himadri Sekhar Basu ]
+   * Remove Mint-X and Linux Mint themes
+   * Modify panel colours.
+   * Modify variation "Teal"
+   * Modify variation "Sand"
+   * Modify variation "Red"
+   * Modify variation "Purple"
+   * Modify variation "Pink"
+   * Modify variation "Orange"
+   * Modify variation "Grey"
+   * Modify variation "Brown"
+   * Modify variation "Blue"
+   * Modify variation "Aqua"
+   * Re-introduce "darker" variation and change panel colors based on variation.
+   * Create README
+   * Add LICENSE
+ .
+   [ JosephMcc ]
+   * Mint-Y: Only ship a single metacity theme
+   * Mint-Y: Add a dark variant to the light theme
+   * Mint-Y: Remove the -darker variation
+   * test-mint-y: Add a couple more things
+   * Mint-X-Gtk3: Add styling for app-notification
+   * Gtk3: Better match csd and ssd window shadows
+   * Mint-Y-Gtk2: Put separators in menus
+Checksums-Sha1:
+ e7150d06db8f20ed350a1f08b778528f8c4812c4 1600020 mint-themes_1.8.8+freedom1_all.deb
+ 293d0c38db5211b79a967e84ddf9b41596484e59 7218 mint-themes_1.8.8+freedom1_amd64.buildinfo
+Checksums-Sha256:
+ e34d4ac7b24acbce08db87ceb02d677dfc935e1c099c2c3a0806fb04e102dfae 1600020 mint-themes_1.8.8+freedom1_all.deb
+ 866a16adefca1d51bf8f7300e94b2faf47f9f2e7772f2baf6b8384c72d85cfdd 7218 mint-themes_1.8.8+freedom1_amd64.buildinfo
+Files:
+ 3d346ce21786dfd36f161e7f1774db0c 1600020 gnome optional mint-themes_1.8.8+freedom1_all.deb
+ 1948fb52a6f7a3695438bfcc5cee06b8 7218 gnome optional mint-themes_1.8.8+freedom1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEnCNYUOnB3ROF8KEHyqPhi8Ry7UgFAmEycrQACgkQyqPhi8Ry
+7UgnQwv9Fi5Lzt0aKEACa8pNxYxoiakA9ihtyYjHW254/naWtG8BvlMDSln3n7a7
+ebh2iBL6aQJa+pQtdy/XlbnwPmw3iDd8b3w0IFK0QHxS943J9iMqj3Stt0NiuBlO
+/O2i356bdTOpPD52Uijz1Q2v5BOAHftJ4vhQUDoP0taHFHwHy42UWgmbXiuV4fAZ
+4gzty58RkpcL73GYUVKbq8mIOUdb8Jy8oMLDhmP9aYCDak59/dGlCx7T5Sa+y9H9
+c6Ia7UjDR4dEKDA13tWC+cp7P6rKrOHqnxjm+r2pvZlgXgpG77rFRyk7ujlVl2Id
+xzrgXDTf1kT0ri+4QxvXiE0K4d9T51O7WXMSEPd6i89sVPK4XkGhK5+hR1F3NGAs
+7ZGKMSSZ/afrOOlV6zgl63q+dm5OkeA2aFnfdWynAvlZbJxKvsx1mOBs8SUK3z4A
+dKncT1kwgLCDEMv4yYVtsY/CUuIZbbnRAq+7qHL4bo8dY4Y4+hgedMFOGeQaUdI5
+wOrGyieV
+=GsFl
+-----END PGP SIGNATURE-----

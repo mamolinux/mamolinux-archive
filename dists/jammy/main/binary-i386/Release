@@ -1,0 +1,7 @@
+Origin: MamoLinux
+Label: MamoLinux
+Codename: jammy
+Architecture: i386
+Components: main
+Description: Contains all 32-bit(i386) binary packages for MamoLinux.
+SignWith: 285EEFC47549D50E

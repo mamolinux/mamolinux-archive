@@ -1,0 +1,7 @@
+Origin: MamoLinux
+Label: MamoLinux
+Codename: jammy
+Architecture: source
+Components: main
+Description: Contains all source packages for MamoLinux.
+SignWith: 285EEFC47549D50E

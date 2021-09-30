@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 30 Oct 2021 21:11:18 +0530
+Source: battery-monitor
+Binary: battery-monitor
+Architecture: all
+Version: 1.0.1
+Distribution: stable
+Urgency: medium
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Changed-By: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Description:
+ battery-monitor - Battery Monitor
+Changes:
+ battery-monitor (1.0.1) stable; urgency=medium
+ .
+   * Update .desktop files via generate_desktop_files (#9)
+   * Show charging/discharging Notification; fixes #5 (#8)
+   * Change source compatibility format to 10
+   * Quit if acpi is not installed or battery is not present
+Checksums-Sha1:
+ 7d229528ca72cd6eaf0e21894003bcfb733f6fe5 20924 battery-monitor_1.0.1_all.deb
+ 75aaac3a35f0b9c456b6267943c8e89196303a65 6926 battery-monitor_1.0.1_amd64.buildinfo
+Checksums-Sha256:
+ aa348bf86add55d5d31ef327980e6e503ab8f3b5c23d2ee7302520cdff871755 20924 battery-monitor_1.0.1_all.deb
+ 6d1cd2a94c2b7510f528d136bff02e49354c5404db37903a23999f0ebb9e8823 6926 battery-monitor_1.0.1_amd64.buildinfo
+Files:
+ a9e7edeebb053937cab0b86b9a12bc1a 20924 admin optional battery-monitor_1.0.1_all.deb
+ 1f40047115166f839262e011a707f2a9 6926 admin optional battery-monitor_1.0.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEnCNYUOnB3ROF8KEHyqPhi8Ry7UgFAmF9aY8ACgkQyqPhi8Ry
+7Uh2qwv/ZPNNLP/UC/8h8HhMI3UeiEc1rMcVAdjZe52TWlglKI5tAYOBh8I+XVCW
++HYAoZrJfcW8U789KVe0CfmnBlwtG57PzM5eKQR1MbT00Z0VW3HqrCWkBxqkXbjs
+gerM2DuFEiP3xGf7W68W5NmMSkIOkRZG3aLeDEGl5ivYg5GvECmZot2BCCVaKulu
+Rh6MDYEqxyj0y4hN/brQhB6wlkG4geJaxclI7TRwvs8OLrMqmgnZas3g1fN0hk71
+OIJaqKibCmEdwSBhz09C3h/gP26vnc69qFyVe6EFdRH5EvRKXkRvSFi0JBJhMfgs
+7JwSw1jsKsSNHzvODr6uEiPhOOVe+qR58aIppFXuGZP44UQjYRWeiqprYAF1V1nY
+0sFgpAYdUZDRxbs4lLP/e3HslS6N0X4vUnjpssjpEINJZx28aub5hpQuASB2VsIj
+xpQHdKneKzgdw0z9Zq077rdWrkIb4dCLxCnfsl+Wh/mFZOc3J0yJjAuPPydJXzmE
+mr/R5UVq
+=W4/O
+-----END PGP SIGNATURE-----

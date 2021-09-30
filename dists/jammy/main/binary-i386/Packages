@@ -1,0 +1,336 @@
+Package: battery-monitor
+Version: 1.0.1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 92
+Depends: acpi, gir1.2-appindicator3-0.1, python3, python3-gi, python3-configobj, python3-setproctitle, libnotify4, libappindicator3-1
+Filename: pool/main/b/battery-monitor_1.0.1_all.deb
+Size: 22082
+MD5sum: 3e101304d8e13aa47f09203308a0ac59
+SHA1: 14254333d740ff0ed581663d76a47d507b11b097
+SHA256: 358a33e265858ffb977960ccbc27fd789dc4b84813d4601c338522f468a137db
+Section: admin
+Priority: optional
+Description: Battery Monitor
+ A utility tool, notifies user about
+ charging, discharging and not charging
+ state of the battery on Linux.
+
+Package: battery-monitor
+Version: 1.0.2
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 89
+Depends: acpi, gir1.2-appindicator3-0.1, python3, python3-gi, python3-configobj, python3-setproctitle, libnotify4, libappindicator3-1
+Filename: pool/main/b/battery-monitor_1.0.2_all.deb
+Size: 21176
+MD5sum: d3ab9a3838186c24096f2c3926971431
+SHA1: 80234670e7baa471bb5599cb04c8ed413f00adab
+SHA256: a6e53574450a20352c5b959637f80717467666ff6196acc4609a9fd28125de88
+Section: admin
+Priority: optional
+Description: Battery Monitor
+ A utility tool, notifies user about
+ charging, discharging and not charging
+ state of the battery on Linux.
+
+Package: leaptime-manager
+Version: 1.0.0
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 109
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/l/leaptime-manager_1.0.0_all.deb
+Size: 13500
+MD5sum: ac15edc80b72a9a87d4122a38f24f353
+SHA1: 9336abcd1ffb6fb15d8123a5f5a8759d1ec3f704
+SHA256: 9fdc9055c0b96a0094e496ab6b585b7b7ca865df65cdcaf7e47a33a61eac4744
+Section: admin
+Priority: optional
+Description: Leaptime Manager
+ Aiming to be an all-in-one, friendly to new-users,
+ GUI based backup manager for Debian/Ubuntu based systems.
+
+Package: mamolinux-cursors
+Version: 1.1.1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 72210
+Conflicts: freedom-y-cursors
+Replaces: freedom-y-cursors
+Filename: pool/main/m/mamolinux-cursors_1.1.1_all.deb
+Size: 1129248
+MD5sum: d443a83dd63ff20dcc335a97f5e15695
+SHA1: af4539c06ad2d061087d01ebe1c4fd21490c00dc
+SHA256: a888800ad88e1432be19e5edac7afbecc07520a61e8ebc67448b293d28dc8b5a
+Section: gnome
+Priority: optional
+Homepage: https://github.com/hsbasu/freedomos-cursors
+Description: MamoLinux Cursors
+ This cursor theme is based on Capitaine Cursors
+ with different colours.
+
+Package: mamolinux-settings
+Version: 1.0.1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 35
+Depends: mamolinux-themes, plank, synapse, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/m/mamolinux-settings_1.0.1_all.deb
+Size: 6784
+MD5sum: 86d979874aae0eeed74c375f7b176be6
+SHA1: 905094367c0a419c2e164c634d160f76561389b1
+SHA256: 34dd6cbd0e50fe306c7e70a55b2cfaced1eacb647f90827cb872966e405b531b
+Section: admin
+Priority: optional
+Description: MamoLinux Settings
+ System-wide settings for MamoLinux
+
+Package: mamolinux-themes
+Version: 1.9.3mamolinux1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 30432
+Depends: mint-y-icons, mamolinux-cursors
+Conflicts: cinnamon-themes, mint-clearloox-theme, mint-themes, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Replaces: cinnamon-themes, mint-clearloox-theme, mint-themes, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Filename: pool/main/m/mamolinux-themes_1.9.3mamolinux1_all.deb
+Size: 1645324
+MD5sum: 337786d480d8960632415164f2682459
+SHA1: 98b80560e8607ccde986f6f86fc95a8ccea23cdd
+SHA256: 28c47ecdab5d47f25cac8a3069ed656e1466dd3e48e545d31170816e6b5d4c18
+Section: gnome
+Priority: optional
+Homepage: https://github.com/hsbasu/mamolinux-themes
+Description: MamoLinux themes
+ A collection of GTK, Metacity, Cinnamon themes
+ for MamoLinux
+
+Package: mamolinux-themes
+Version: 1.9.5mamolinux1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 30587
+Depends: mint-y-icons, mamolinux-cursors
+Conflicts: cinnamon-themes, mint-clearloox-theme, mint-themes, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Replaces: cinnamon-themes, mint-clearloox-theme, mint-themes, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Filename: pool/main/m/mamolinux-themes_1.9.5mamolinux1_all.deb
+Size: 1821744
+MD5sum: 4a23ba22a53ad0e2fb0d7c82b31837f8
+SHA1: cf53f67a198fb4e36becd04bed584505a80fc835
+SHA256: 01935da53a9a5dc2dc7f78acde946ae65cf0bf0b7382ccb8fbfd76879ed11c53
+Section: gnome
+Priority: optional
+Homepage: https://github.com/hsbasu/mamolinux-themes
+Description: MamoLinux themes
+ A collection of GTK, Metacity, Cinnamon themes
+ for MamoLinux
+
+Package: mamolinux-wallpapers
+Version: 20.04.0
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 25248
+Conflicts: freedom-wallpapers
+Replaces: freedom-wallpapers
+Filename: pool/main/m/mamolinux-wallpapers_20.04.0_all.deb
+Size: 25687108
+MD5sum: 1a765e607020f29aee23f742cb7a79e3
+SHA1: 4138850a44b8202b8a452f83f20b541f4906dcb3
+SHA256: 989bec72cca2262a8349e4e933c8234aa1fa48712b1f75ea46e1ec26cb14a065
+Section: gnome
+Priority: extra
+Homepage: https://github.com/hsbasu/mamolinux-wallpapers
+Description: Wallpapers for MamoLinux.
+  Contains backgrounds for desktop, login-screen
+  and grub.
+
+Package: mint-themes
+Version: 1.8.8+freedom1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 31146
+Depends: mint-y-icons, freedom-y-cursors
+Conflicts: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Replaces: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Filename: pool/main/m/mint-themes_1.8.8+freedom1_all.deb
+Size: 1600020
+MD5sum: 3d346ce21786dfd36f161e7f1774db0c
+SHA1: e7150d06db8f20ed350a1f08b778528f8c4812c4
+SHA256: e34d4ac7b24acbce08db87ceb02d677dfc935e1c099c2c3a0806fb04e102dfae
+Section: gnome
+Priority: optional
+Description: Mint themes
+ A collection of mint themes.
+
+Package: pinguybuilder
+Version: 5.2-1
+Architecture: all
+Maintainer: pinguy <antoni.norman@gmail.com>
+Installed-Size: 11788
+Depends: archdetect-deb, memtest86+, coreutils, dialog, mkisofs | genisoimage, findutils, bash, passwd, sed, squashfs-tools, casper, rsync, mount, eject, libdebian-installer4, os-prober, user-setup, discover1 | discover, laptop-detect, syslinux, syslinux-common, util-linux, aufs-tools | unionfs-fuse, dpkg-dev, policykit-1, python (>= 2.7), python (<< 2.8), python-glade2, python-vte, gir1.2-vte-2.91, python-gi, python-gi-cairo, gir1.2-gtk-3.0, plymouth-x11
+Filename: pool/main/p/pinguybuilder_5.2-1_all.deb
+Size: 4885796
+MD5sum: d2761c3c4cac026ef195e6e88c9209f1
+SHA1: 20af74c9423ee8bf7eb7dfc0c215239045d695d6
+SHA256: 242923cf9a2c44de0c3f454a2f9b40c7e9e550f09d4e810c59877272a2cf3ca7
+Section: utils
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: This script creates a livecd of the installed system and works with *buntu systems.
+ You can either make a distributable livecd or a backup of your system.
+
+Package: pinguybuilder
+Version: 5.2-2
+Architecture: all
+Maintainer: pinguy <antoni.norman@gmail.com>
+Installed-Size: 11788
+Depends: archdetect-deb, memtest86+, coreutils, dialog, mkisofs | genisoimage, findutils, bash, passwd, sed, squashfs-tools, casper, rsync, mount, eject, libdebian-installer4, os-prober, user-setup, discover1 | discover, laptop-detect, syslinux, syslinux-common, util-linux, aufs-tools | unionfs-fuse, dpkg-dev, policykit-1, python (>= 2.7), python (<< 2.8), gir1.2-vte-2.91, python-gi, python-gi-cairo, gir1.2-gtk-3.0, plymouth-x11
+Filename: pool/main/p/pinguybuilder_5.2-2_all.deb
+Size: 4887540
+MD5sum: 99436037e50bebfb3dbcde9ded5434a7
+SHA1: 11cebbbbc2f8b5b39de65b17e0e0f4c2c7dbe1ba
+SHA256: a26366ae5d9a6d8e084d694f808deb62d5e04c4a89e8b14a1fc278d925c7ae55
+Section: utils
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: This script creates a livecd of the installed system and works with *buntu systems.
+ You can either make a distributable livecd or a backup of your system.
+
+Package: simple-pwgen
+Version: 1.0.4
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 106
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/s/simple-pwgen_1.0.4_all.deb
+Size: 14004
+MD5sum: 402c1a22e1515404949aa54e19b6604a
+SHA1: f37991b781849e110f9ca2f310c1ef4c22dcd898
+SHA256: 0e58b06fe2407a1b727ec5ca935a5de910ccc797c35e49cc1133ccd28e33c428
+Section: admin
+Priority: optional
+Description: Simple Password Generator
+ Very simple Python3-based GUI application
+ to generate random password.
+
+Package: simple-pwgen
+Version: 1.0.5
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 106
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/s/simple-pwgen_1.0.5_all.deb
+Size: 14272
+MD5sum: fe1b33c9c4e1f831f9c93cfccc1d4e3f
+SHA1: 57798ebefd8706f75d9772f7176232cf96232ee2
+SHA256: d17038c08bcd755bbcb76eab12bd902fd842b7c4f52de4c789f7f18a5401b7e0
+Section: admin
+Priority: optional
+Description: Simple Password Generator
+ Very simple Python3-based GUI application
+ to generate random password.
+
+Package: simple-pwgen
+Version: 1.0.5-0patch1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 106
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/s/simple-pwgen_1.0.5-0patch1_all.deb
+Size: 14316
+MD5sum: dd4db08c23394755ebe8a02cea8f46f1
+SHA1: 49e0b8e9eb7dddca9dd524d5ea08e2083bdfd696
+SHA256: 3cfbfc9425204d86a342448a8e2ef78b7ca1a09889eac7ae42013fc3aef5c795
+Section: admin
+Priority: optional
+Description: Simple Password Generator
+ Very simple Python3-based GUI application
+ to generate random password.
+
+Package: theme-manager
+Version: 1.0.0
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 93
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, redshift, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/t/theme-manager_1.0.0_all.deb
+Size: 14602
+MD5sum: b34a10cc845ea32af089dc70e3912fe0
+SHA1: a398a97f0a3cf76f3f053222b1b8fa3f6bf8368d
+SHA256: d18fb3017ac84fc6cc2f2147c09770726616042779c7a7ed5490f593321816db
+Section: admin
+Priority: optional
+Description: Theme Manager
+ A Python3-based GUI application
+ to change different colour variants of GTK,
+ Icon, Cursor and other themes.
+
+Package: theme-manager
+Version: 1.0.1
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 96
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, redshift, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/t/theme-manager_1.0.1_all.deb
+Size: 13216
+MD5sum: ce566795d810a94c362becb9f6e02255
+SHA1: a686c8cd20d8430a1b5b806fe7f66c90a2ff3cdb
+SHA256: 81500c2fa421395b49017b6232711c18eb27296451284db00ae8f00c3957815f
+Section: admin
+Priority: optional
+Description: Theme Manager
+ A Python3-based GUI application
+ to change different colour variants of GTK,
+ Icon, Cursor and other themes.
+
+Package: theme-manager
+Version: 1.0.2
+Architecture: all
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Installed-Size: 98
+Depends: python3, python3-gi, python3-configobj, python3-setproctitle, redshift, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/t/theme-manager_1.0.2_all.deb
+Size: 13484
+MD5sum: 2184b109b2310a96f9076c8b756ca6b5
+SHA1: d23859eb3eb39a4383b8d9d1448e2681b3115b52
+SHA256: ecf26e9728d643464647d90118583376f46d28546fa7d52da1983c143ab34bb1
+Section: admin
+Priority: optional
+Description: Theme Manager
+ A Python3-based GUI application
+ to change different colour variants of GTK,
+ Icon, Cursor and other themes.
+
+Package: webapp-manager
+Version: 1.1.5freedom1
+Architecture: all
+Maintainer: Linux Mint <root@linuxmint.com>
+Installed-Size: 5520
+Depends: gir1.2-xapp-1.0 (>= 1.4), python3, python3-gi, python3-bs4, python3-configobj, python3-setproctitle, python3-tldextract, xapps-common, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/w/webapp-manager_1.1.5freedom1_all.deb
+Size: 59000
+MD5sum: 734d0f75725865b9e58e4e01b5255586
+SHA1: a46add94f817c62a51284475a9a746fb30f57e02
+SHA256: 4a60a52f0249c7d40cfb1a38b7fff179dfce6d0dbf5026c2d37088dca8f25655
+Section: admin
+Priority: optional
+Description: Web Application Manager
+ Launch websites as if they were apps.
+
+Package: webapp-manager
+Version: 1.1.7
+Architecture: all
+Maintainer: Linux Mint <root@linuxmint.com>
+Installed-Size: 5533
+Depends: gir1.2-xapp-1.0 (>= 1.4), python3, python3-gi, python3-bs4, python3-configobj, python3-pil, python3-setproctitle, python3-tldextract, xapps-common, dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/w/webapp-manager_1.1.7_all.deb
+Size: 59440
+MD5sum: 127258d808e3b2b7293c0e8de038fbb7
+SHA1: e6c07177264d79fb513ffc285855efdedc20dfb7
+SHA256: e7fd2fba06006c02deed42b4b20af8daa16970b9a040d3a0ddfdfb32e807520b
+Section: admin
+Priority: optional
+Description: Web Application Manager
+ Launch websites as if they were apps.
+

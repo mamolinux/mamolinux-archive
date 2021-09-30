@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# sign-keys
+wget --no-check-certificate -qO - https://raw.githubusercontent.com/hsbasu/mamolinux-archive/jammy/data/mamolinux-keyring-2021-cdimage.gpg | gpg --dearmour | sudo tee /etc/apt/trusted.gpg.d/mamolinux-keyring-2021-cdimage.gpg
+wget --no-check-certificate -qO - https://raw.githubusercontent.com/hsbasu/mamolinux-archive/jammy/data/mamolinux-keyring-dailybuild-archive.gpg | gpg --dearmour | sudo tee /etc/apt/trusted.gpg.d/mamolinux-keyring-dailybuild-archive.gpg
+
+# Github Repo
+echo "deb https://raw.githubusercontent.com/hsbasu/mamolinux-archive/jammy jammy main #MamoLinux GitHub" | sudo tee /etc/apt/sources.list.d/mamolinux-github.list
+echo "# deb-src https://raw.githubusercontent.com/hsbasu/mamolinux-archive/jammy jammy main #MamoLinux GitHub" | sudo tee -a /etc/apt/sources.list.d/mamolinux-github.list
+
+# Launchpad Daily-Build repo
+echo "deb http://ppa.launchpad.net/mamolinux/daily-builds/ubuntu jammy main #MamoLinux Daily Build" | sudo tee /etc/apt/sources.list.d/mamolinux-daily-build.list
+echo "# deb-src http://ppa.launchpad.net/mamolinux/daily-builds/ubuntu jammy main #MamoLinux Daily Build" | sudo tee /etc/apt/sources.list.d/mamolinux-daily-build.list
+
+sudo apt update

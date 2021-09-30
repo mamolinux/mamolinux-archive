@@ -1,0 +1,10 @@
+#package section
+battery-monitor	admin
+leaptime-manager	admin
+mamolinux-cursors	gnome
+mamolinux-settings	admin
+mamolinux-themes	gnome
+mamolinux-wallpapers	gnome
+simple-pwgen	admin
+theme-manager	admin
+webapp-manager	admin
